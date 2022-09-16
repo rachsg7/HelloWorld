@@ -16,6 +16,5 @@ Written using Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Create Your First Kotlin Application](https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html)
 * [Kotlin Hello World](https://www.programiz.com/kotlin-programming/hello-world)
